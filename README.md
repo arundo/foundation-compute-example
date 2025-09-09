@@ -2,6 +2,10 @@
 
 Example of a Python compute compatible with the Foundation platform.
 
+## Documentation
+
+- **[API Schema Documentation](API_SCHEMA.md)** - Specification of request and response schemas
+
 ## Installation
 
 This project uses Poetry for dependency management. Install Poetry if you haven't already:
